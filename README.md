@@ -7,9 +7,9 @@ Arguments 1 and 2 refer to the input and output directory. Argument 3 decides wh
 
 You can specify one of the following three argumnets:
 
-1)  Argumnet : normal  -> This runs problem 2 of the assignment, which accepts the directory of uncompressed zip files.
-2) Argumnet : zip -> This runs problem 3 of the assignment , which accepts the zip file.
-3) Argumnet : json -> This runs problem 4 of the assignmnet, which accpets a json file
+1)  Argumnet : normal  -> This runs program 2, which accepts the directory of uncompressed zip files.
+2) Argumnet : zip -> This runs problem 3, which accepts the zip file.
+3) Argumnet : json -> This runs problem 4, which accpets a json file
 
 
 eg:
